@@ -1,0 +1,7 @@
+- 安装和配置
+	- 安装[UGit](https://ugit.qq.com/zh/)
+	- [配置私有化鉴权登录](https://docs.qq.com/doc/DZE1WWWFrdnFPQ1VW)
+	- [克隆仓库](https://docs.qq.com/doc/DTEpoYWVwV1dhV0Rz)
+		- 仓库地址: https://git.babybus.co/2dnewapp/unity2d/project/com.sinyee.babybus.abcGroup/u2dabcspineresources.git
+		- 分支: master
+- [使用手册](https://docs.qq.com/doc/DTEpoYWVwV1dhV0Rz)
