@@ -1,0 +1,4 @@
+- 所有DOTween动画，使用self:addSequence作为序列（详见LuaBehaviour.lua）
+- 统一不使用Coroutine，所有需要循环的逻辑均可改为在update方法中执行
+- 所有点击事件均绑定在节点上，使用TH.bindTouch(gameObject, {...})方法实现onTouchBegan、onTouchMoved、onTouchEnded回调
+- 理解LuaBehaviour生命周期
